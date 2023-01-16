@@ -146,7 +146,7 @@ img {
 </html>
 ```
 ## Output:
-![OUTPUT](./output.png)
+![OUTPUT](./Output.png)
 
 ## Result:
 The output for Book cover page is succussfully displayed.

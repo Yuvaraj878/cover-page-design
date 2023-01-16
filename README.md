@@ -38,7 +38,6 @@ Then we are ready to run the server and see our output.
              background-image: url('/static/images/dna.png');
              background-position: center;
              background-color: black;
-             background-size: cover;
              background-repeat: no-repeat;
          }
          .toptext{

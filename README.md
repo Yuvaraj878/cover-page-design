@@ -146,7 +146,7 @@ img {
 </html>
 ```
 ## Output:
-Include your output screenshot here
+![OUTPUT](./output.png)
 
 ## Result:
 The output for Book cover page is succussfully displayed.
